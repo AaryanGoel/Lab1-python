@@ -1,4 +1,7 @@
-
+# author: Aaryan Goel apg5729@psu.edu
+# collaborator: Harshal Mahajan hfm5238@psu.edu
+# Siddhartha Kollati szk6147@psu.edu
+# Juma Al-Maskari jpa5637@psu.edu
 Temp = float(input("Enter temperature: "))
 unit = input("Enter unit in F/f or C/c: ")
 celsius = 0
